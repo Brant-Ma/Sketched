@@ -8,3 +8,6 @@ just something about design
 ![rain](./png/weather/rain.png)
 ![snow](./png/weather/snow.png)
 ![fog](./png/weather/fog.png)
+
+## icons
+![camera](./png/icons/camera.png)
