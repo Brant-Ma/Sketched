@@ -11,3 +11,4 @@ just something about design
 
 ## icons
 ![camera](./icons/camera.png)
+![message](./icons/message.png)
