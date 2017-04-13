@@ -13,3 +13,4 @@ just something about design
 ![camera](./icons/camera.png)
 ![message](./icons/message.png)
 ![browser](./icons/browser.png)
+![gallery](./icons/gallery.png)
