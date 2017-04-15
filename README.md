@@ -14,3 +14,4 @@ just something about design
 ![message](./icons/message.png)
 ![browser](./icons/browser.png)
 ![gallery](./icons/gallery.png)
+![clock](./icons/clock.png)
