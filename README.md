@@ -10,9 +10,9 @@ just something about design
 ![fog](./weather/fog.png)
 
 ## OnePlus icon（copy）
-![camera](./icons/camera.png)
-![message](./icons/message.png)
-![browser](./icons/browser.png)
-![gallery](./icons/gallery.png)
-![clock](./icons/clock.png)
-![phone](./icons/phone.png)
+![camera](./oneplus/camera.png)
+![message](./oneplus/message.png)
+![browser](./oneplus/browser.png)
+![gallery](./oneplus/gallery.png)
+![clock](./oneplus/clock.png)
+![phone](./oneplus/phone.png)
