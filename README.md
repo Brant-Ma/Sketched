@@ -1,7 +1,7 @@
 # Sketched
 just something about design
 
-## weather
+## weather icon（original）
 ![sunny](./weather/sunny.png)
 ![cloudy](./weather/cloudy.png)
 ![windy](./weather/windy.png)
@@ -9,7 +9,7 @@ just something about design
 ![snow](./weather/snow.png)
 ![fog](./weather/fog.png)
 
-## icons
+## OnePlus icon（copy）
 ![camera](./icons/camera.png)
 ![message](./icons/message.png)
 ![browser](./icons/browser.png)
