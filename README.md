@@ -15,3 +15,4 @@ just something about design
 ![browser](./icons/browser.png)
 ![gallery](./icons/gallery.png)
 ![clock](./icons/clock.png)
+![phone](./icons/phone.png)
