@@ -17,3 +17,4 @@ just something about design
 ![clock](./oneplus/clock.png)
 ![phone](./oneplus/phone.png)
 ![settings](./oneplus/settings.png)
+![calculator](./oneplus/calculator.png)
