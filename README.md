@@ -18,3 +18,4 @@ just something about design
 ![phone](./oneplus/phone.png)
 ![settings](./oneplus/settings.png)
 ![calculator](./oneplus/calculator.png)
+![store](./oneplus/store.png)
