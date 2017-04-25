@@ -21,3 +21,5 @@ just something about design
 ![store](./oneplus/store.png)
 ![mail](./oneplus/mail.png)
 ![calendar](./oneplus/calendar.png)
+![memo](./oneplus/memo.png)
+![file](./oneplus/file.png)
