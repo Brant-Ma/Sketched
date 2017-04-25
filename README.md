@@ -23,3 +23,5 @@ just something about design
 ![calendar](./oneplus/calendar.png)
 ![memo](./oneplus/memo.png)
 ![file](./oneplus/file.png)
+![manager](./oneplus/manager.png)
+![recorder](./oneplus/recorder.png)
