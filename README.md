@@ -25,4 +25,6 @@ just something about design
 ![file](./oneplus/file.png)
 ![manager](./oneplus/manager.png)
 ![recorder](./oneplus/recorder.png)
-![rain](./oneplus/rain.png)
+![rainy](./oneplus/rainy.png)
+![sunny](./oneplus/sunny.png)
+![cloudy](./oneplus/cloudy.png)
