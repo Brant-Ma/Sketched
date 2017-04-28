@@ -31,3 +31,4 @@ just something about design
 
 ## favorite icon (copy)
 ![dida](./favorite/dida.png)
+![douban](./favorite/douban.png)
