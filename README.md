@@ -1,6 +1,14 @@
 # Sketched
 just something about design
 
+## file icon (original)
+![text](./file/text.png)
+![image](./file/image.png)
+![audio](./file/audio.png)
+![video](./file/video.png)
+![pdf](./file/pdf.png)
+![other](./file/other.png)
+
 ## weather icon (original)
 ![sunny](./weather/sunny.png)
 ![cloudy](./weather/cloudy.png)
