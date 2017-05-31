@@ -9,6 +9,11 @@ Just something about design
 ![pdf](original/file/pdf.png)
 ![other](original/file/other.png)
 
+## ![original](meta/original.png) Medal icons
+![copper](original/medal/copper.png)
+![silver](original/medal/silver.png)
+![gold](original/medal/gold.png)
+
 ## ![original](meta/original.png) Weather icons
 ![sunny](original/weather/sunny.png)
 ![cloudy](original/weather/cloudy.png)
