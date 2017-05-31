@@ -40,3 +40,4 @@ Just something about design
 ![dida](copy/favorite/dida.png)
 ![douban](copy/favorite/douban.png)
 ![duotai](copy/favorite/duotai.png)
+![evermemo](copy/favorite/evermemo.png)
