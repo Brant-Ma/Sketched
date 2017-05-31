@@ -1,7 +1,7 @@
 # Sketched
-just something about design
+Just something about design
 
-## ![original](./meta/original.png) file icon 
+## ![original](./meta/original.png) File icons
 ![text](./file/text.png)
 ![image](./file/image.png)
 ![audio](./file/audio.png)
@@ -9,7 +9,7 @@ just something about design
 ![pdf](./file/pdf.png)
 ![other](./file/other.png)
 
-## ![original](./meta/original.png) weather icon (original)
+## ![original](./meta/original.png) Weather icons
 ![sunny](./weather/sunny.png)
 ![cloudy](./weather/cloudy.png)
 ![windy](./weather/windy.png)
@@ -17,7 +17,7 @@ just something about design
 ![snow](./weather/snow.png)
 ![fog](./weather/fog.png)
 
-## ![copy](./meta/copy.png) OnePlus icon (copy)
+## ![copy](./meta/copy.png) OnePlus icons
 ![sunny](./oneplus/sunny.png)
 ![cloudy](./oneplus/cloudy.png)
 ![rainy](./oneplus/rainy.png)
@@ -36,7 +36,7 @@ just something about design
 ![memo](./oneplus/memo.png)
 ![manager](./oneplus/manager.png)
 
-## ![copy](./meta/copy.png) favorite icon (copy)
+## ![copy](./meta/copy.png) Favorite icons
 ![dida](./favorite/dida.png)
 ![douban](./favorite/douban.png)
 ![duotai](./favorite/duotai.png)
