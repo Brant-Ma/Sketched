@@ -33,9 +33,8 @@ just something about design
 ![store](./oneplus/store.png)
 ![settings](./oneplus/settings.png)
 ![recorder](./oneplus/recorder.png)
-![file](./oneplus/file.png)
-![manager](./oneplus/manager.png)
 ![memo](./oneplus/memo.png)
+![manager](./oneplus/manager.png)
 
 ## favorite icon (copy)
 ![dida](./favorite/dida.png)
