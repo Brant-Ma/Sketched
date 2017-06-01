@@ -11,6 +11,7 @@ Just something about design
 
 ## ![original](meta/original.png) Browser icons
 ![firefox](original/browser/firefox.png)
+![safari](original/browser/safari.png)
 ![chrome](original/browser/chrome.png)
 
 ## ![original](meta/original.png) Medal icons
