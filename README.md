@@ -1,13 +1,12 @@
 # Sketched
 Just something about design
 
-## ![original](meta/original.png) File icons
-![text](original/file/text.png)
-![image](original/file/image.png)
-![audio](original/file/audio.png)
-![video](original/file/video.png)
-![pdf](original/file/pdf.png)
-![other](original/file/other.png)
+## ![original](meta/original.png) Tech icons
+![js](original/tech/js.png)
+![node](original/tech/node.png)
+![react](original/tech/react.png)
+![angular](original/tech/angular.png)
+![vue](original/tech/vue.png)
 
 ## ![original](meta/original.png) Browser icons
 ![firefox](original/browser/firefox.png)
@@ -18,6 +17,14 @@ Just something about design
 ![copper](original/medal/copper.png)
 ![silver](original/medal/silver.png)
 ![gold](original/medal/gold.png)
+
+## ![original](meta/original.png) File icons
+![text](original/file/text.png)
+![image](original/file/image.png)
+![audio](original/file/audio.png)
+![video](original/file/video.png)
+![pdf](original/file/pdf.png)
+![other](original/file/other.png)
 
 ## ![original](meta/original.png) Weather icons
 ![sunny](original/weather/sunny.png)
