@@ -1,5 +1,12 @@
 # Sketched
-Just something about design
+
+Just something about design.
+
+There are thumbnails of many sets of icons below, with a meta icon before title:
+
+![original](meta/original.png) means this group is original desing,
+
+![copy](meta/copy.png) means this group is just a copy for practicing.
 
 ## ![original](meta/original.png) Tech icons
 ![js](original/tech/js.png)
@@ -34,6 +41,13 @@ Just something about design
 ![snow](original/weather/snow.png)
 ![fog](original/weather/fog.png)
 
+## ![copy](meta/copy.png) Favorite icons
+![dida](copy/favorite/dida.png)
+![douban](copy/favorite/douban.png)
+![duotai](copy/favorite/duotai.png)
+![evermemo](copy/favorite/evermemo.png)
+![dbfm](copy/favorite/dbfm.png)
+
 ## ![copy](meta/copy.png) OnePlus icons
 ![sunny](copy/oneplus/sunny.png)
 ![cloudy](copy/oneplus/cloudy.png)
@@ -52,10 +66,3 @@ Just something about design
 ![recorder](copy/oneplus/recorder.png)
 ![memo](copy/oneplus/memo.png)
 ![manager](copy/oneplus/manager.png)
-
-## ![copy](meta/copy.png) Favorite icons
-![dida](copy/favorite/dida.png)
-![douban](copy/favorite/douban.png)
-![duotai](copy/favorite/duotai.png)
-![evermemo](copy/favorite/evermemo.png)
-![dbfm](copy/favorite/dbfm.png)
