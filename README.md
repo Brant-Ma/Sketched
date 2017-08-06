@@ -1,12 +1,12 @@
 # Sketched
 
-Just something about design.
+> Just something about design.
 
 There are thumbnails of many sets of icons below, with a meta icon before title:
 
-![original](meta/original.png) means this group is original desing,
+![original](meta/original.png) means these icons are almost the original works, ![copy](meta/copy.png) means this group is just a copy for practicing.
 
-![copy](meta/copy.png) means this group is just a copy for practicing.
+---
 
 ## ![original](meta/original.png) Tech icons
 ![js](original/tech/js.png)
