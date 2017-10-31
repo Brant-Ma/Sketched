@@ -7,6 +7,7 @@ Just something about design
 ![react](original/tech/react.png)
 ![angular](original/tech/angular.png)
 ![vue](original/tech/vue.png)
+![git](original/tech/git.png)
 
 ## ![original](meta/original.png) Browser icons
 ![firefox](original/browser/firefox.png)
